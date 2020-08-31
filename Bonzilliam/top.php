@@ -8,7 +8,7 @@
 <body>
 
     <div class="menu">
-        <img class="menuImage center" src="images/logo2.PNG">
+        <img class="menuImage center" src="images/logo2.png">
     </div>
 
     <img class="menuImage center" src="images/logo.PNG">
